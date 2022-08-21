@@ -1,2 +1,3 @@
-# algorithms
-A collection of various algorithms
+# dsa
+
+A collection of various algorithms and data structures.
